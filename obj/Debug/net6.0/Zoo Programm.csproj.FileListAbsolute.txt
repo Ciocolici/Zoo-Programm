@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\GitHub\Zoo Programm\bin\Debug\net6.0\Zoo Programm.exe
+C:\Users\danie\Documents\GitHub\Zoo Programm\bin\Debug\net6.0\Zoo Programm.deps.json
+C:\Users\danie\Documents\GitHub\Zoo Programm\bin\Debug\net6.0\Zoo Programm.runtimeconfig.json
+C:\Users\danie\Documents\GitHub\Zoo Programm\bin\Debug\net6.0\Zoo Programm.dll
+C:\Users\danie\Documents\GitHub\Zoo Programm\bin\Debug\net6.0\Zoo Programm.pdb
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.dll
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\refint\Zoo Programm.dll
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.pdb
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\Zoo Programm.genruntimeconfig.cache
+C:\Users\danie\Documents\GitHub\Zoo Programm\obj\Debug\net6.0\ref\Zoo Programm.dll
