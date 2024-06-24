@@ -1,4 +1,4 @@
 # Zoo-Programm
-A C# (CSharp) Console App project. The program simulates an automated information booth for a small Zoo.
+A C# (CSharp) Console App exercise-project, done during my classes for IT Specialist in Application Development by Lutz & Grub Academy. The program simulates an automated information booth for a small Zoo.
 
-Open "Zoo Programm.sln" to see the code. To run the Console App program directly, launch "Zoo Programm.exe" located in "bin/Debug/net6.0". 
+*To run the Console App program directly, launch "Zoo Programm.exe" located in "bin/Debug/net6.0".*
